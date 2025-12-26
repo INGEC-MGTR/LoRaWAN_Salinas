@@ -1,7 +1,6 @@
 /*
  * Simulación LoRaWAN con Gateways Fijos (Tradicional) - Salinas
- * Con medición de latencia end-to-end Y COBERTURA DINÁMICA
- * VERSIÓN FINAL: Sin configuración de potencia variable (usa valor por defecto 14 dBm)
+*Sin configuración de potencia variable (usa valor por defecto 14 dBm)
  */
 
 #include "ns3/core-module.h"

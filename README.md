@@ -1,12 +1,12 @@
 # Arquitecturas LoRaWAN para Emergencias Marítimas
 
-## 📋 Descripción
+## Descripción
 Simulación NS-3 de arquitecturas LoRaWAN para comunicaciones de emergencia marítima en Salinas, Ecuador.
 
 **Autora:** Ing. Erika Michelle Chiriguayo Rodríguez  
 **Institución:** UPSE - Maestría en Telecomunicaciones
 
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 LoRaWAN_Tesis/
@@ -14,7 +14,7 @@ LoRaWAN_Tesis/
 │   ├── Animacion_gif/           # Animaciones de red
 │   ├── Resultados_Movil_10gw/   # Resultados 10 gateways móviles
 │   ├── Resultados_mòvil_3gw/    # Resultados 3 gateways móviles
-│   ├── Resultados_tradicional_3gw/  # Arquitectura tradicional
+│   ├── Resultados_tradicional_3gw/  # Arquitectura tradicional (fija)
 │   └── Script_graficas/         # Scripts de visualización
 │
 ├── Resultados Ob2/              # Objetivo 2: Validación P2P
@@ -30,20 +30,20 @@ LoRaWAN_Tesis/
 └── *.sh                         # Scripts de validación
 ```
 
-## 🚀 Archivos de Simulación
+## Archivos de Simulación
 
 - `salinas-traditional_original.cc` - Arquitectura tradicional (gateways fijos)
 - `salinas-mobile-3gw_original.cc` - 3 gateways móviles + P2P
 - `salinas-mobile-10gw-p2p.cc` - 10 gateways móviles
 - `validacion_simulacion_objetivo2.sh` - Script de validación
 
-## 📊 Resultados Principales
+## Resultados Principales
 
 - **PDR Móvil**: 99.20% vs Tradicional: 97.71% (+1.49%)
 - **Cobertura**: 100% vs ~95% (+5%)
 - **Resiliencia**: Móvil tolera 66% fallos, Tradicional 0%
 
-## 🛠️ Uso
+## Uso
 
 ```bash
 # Compilar en NS-3

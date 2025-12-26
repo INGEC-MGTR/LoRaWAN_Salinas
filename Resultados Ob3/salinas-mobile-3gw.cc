@@ -1,10 +1,6 @@
 /*
  * Simulación LoRaWAN con Gateways Móviles - Salinas
  * Con medición de latencia end-to-end
- * ARCHIVO: salinas-mobile-3gw.cc
- * GENERA: positions_salinas_movil_3gw.csv, cobertura_salinas_movil_3gw.csv
- *        resultados_salinas_movil_3gw_base.csv, resultados_salinas_movil_3gw_p2p.csv
- *        salinas-mobile-3gw-anim.xml
  */
 
 #include "ns3/core-module.h"

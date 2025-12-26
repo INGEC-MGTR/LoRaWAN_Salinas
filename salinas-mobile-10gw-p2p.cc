@@ -1,9 +1,6 @@
 /*
  * Simulación LoRaWAN con Gateways Móviles P2P - Salinas
- * 10 Gateways Móviles - ARCHIVO: salinas-mobile-gw-p2p.cc
- * GENERA: positions_salinas_gw10_p2p.csv, cobertura_salinas_gw10_p2p.csv
- *        resultados_salinas_gw10.csv, resultados_salinas_gw10_p2p.csv
- *        salinas-mobile-gw-p2p-anim.xml
+ * 10 Gateways Móviles
  */
 
 #include "ns3/core-module.h"

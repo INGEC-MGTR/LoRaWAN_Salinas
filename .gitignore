@@ -1,0 +1,15 @@
+# Solo excluir archivos del sistema y temporales
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+~$*
+
+# Build de NS-3
+.waf-*
+.lock-waf*
+
+# Backups
+*.bak
+*.backup

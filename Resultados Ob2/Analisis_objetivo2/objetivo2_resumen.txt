@@ -1,0 +1,30 @@
+======================================================================
+RESUMEN OBJETIVO 2: VALIDACIÓN DE ALGORITMOS P2P
+======================================================================
+
+HALLAZGOS CLAVE:
+
+1. IMPACTO DEL SPREADING FACTOR:
+   - SF7: PDR 99.3-99.43%, Latencia 53ms (óptimo)
+   - SF9: PDR 95-99.43%, Latencia 53-187ms (degradación moderada en tradicional)
+   - SF12: PDR 70.64-99.20%, Latencia 53-1320ms (severa degradación en tradicional)
+
+2. COMPARACIÓN ARQUITECTURAS (14 dBm):
+   - Móvil supera a Tradicional en todos los SF
+   - Ventaja más notable en SF12: 99.20% vs 70.64% PDR
+   - Cobertura: Móvil 99.39% vs Tradicional 68%
+
+3. IMPACTO DE POTENCIA (Móvil):
+   - 14 dBm: PDR 99.20-99.43%, P2P 74.56%
+   - 8 dBm: PDR 97.5-98.5%, P2P 72%
+   - Reducción potencia -6dBm: pérdida ~1-2% PDR
+
+4. PROTOCOLO P2P:
+   - Eficiencia: 72-74.56%
+   - Independiente del SF (latencia constante 53ms)
+   - Ligera mejora con mayor potencia
+
+CONCLUSIÓN:
+La arquitectura móvil con P2P demuestra superioridad significativa,
+especialmente en SF altos donde la tradicional se degrada severamente.
+El protocolo P2P mantiene alta eficiencia independiente del SF.

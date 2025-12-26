@@ -1,13 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Universidad Estatal Península de Santa Elena (UPSE)
-Facultad de Sistemas y Telecomunicaciones
-Carrera de Telecomunicaciones
-
-Visualización Animada de Red LoRaWAN Marítima
-Autora: Emi
-Fecha: Diciembre 2024
 """
 
 import pandas as pd

@@ -1,6 +1,6 @@
 #!/bin/bash
 ##############################################################################
-# SCRIPT CORREGIDO - OBJETIVO 2
+# SCRIPT PARA EJECUCIÒN OBJETIVO 2
 # Comparación: Tradicional vs Móvil con variación de SF y Potencia
 ##############################################################################
 

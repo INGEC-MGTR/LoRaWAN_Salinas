@@ -52,3 +52,4 @@ LoRaWAN_Tesis/
 
 ## 📧 Contacto
 e.chiriguarodrigue@upse.edu.ec
+f.chamba@upse.edu.ec

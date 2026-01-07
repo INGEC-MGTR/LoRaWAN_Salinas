@@ -3,7 +3,7 @@
 ## Descripción
 Simulación NS-3 de arquitecturas LoRaWAN para comunicaciones de emergencia marítima en Salinas, Ecuador.
 
-**Autora:** Ing. Erika Michelle Chiriguayo Rodríguez  
+**Autores:** Ing. Erika Michelle Chiriguayo Rodríguez | Ing. Fernando Vinicio Chamba Macas, Mgtr.
 **Institución:** UPSE - Maestría en Telecomunicaciones
 
 ## Estructura del Proyecto
